@@ -239,9 +239,9 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 80%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("C:\Users\himak\Downloads\Hero_Background.jpg") top center;
   background-size: cover;
 }
 
@@ -258,22 +258,22 @@ h6 {
 
 #hero .hero-container {
   position: relative;
-  z-index: 2;
-  min-width: 300px;
+  z-index: 6;
+  min-width: 500px;
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 64px;
-  font-weight: 700;
-  line-height: 56px;
+  margin: 150px 180px 50px 320px;
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 76px;
   color: #fff;
 }
 
 #hero p {
   color: #fff;
-  margin-bottom: 50px;
-  font-size: 26px;
+  margin: 10px 80px 150px 320px;
+  font-size: 18px;
   font-family: "Poppins", sans-serif;
 }
 
